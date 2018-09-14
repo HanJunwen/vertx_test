@@ -69,7 +69,12 @@
             <version>2.14.3</version>
             <scope>test</scope>
         </dependency>
-
+        <!-- MongoDB数据库连接驱动 -->
+        <dependency>
+            <groupId>org.mongodb</groupId>
+            <artifactId>mongo-java-driver</artifactId>
+            <version>3.0.0</version>
+        </dependency>
     </dependencies>
 
 
